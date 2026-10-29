@@ -4,12 +4,6 @@ A Maven-based REST API in Java for train reservations connected to an SQL databa
 
 ## How to Run
 
-Navigate to the project directory:
-
-```bash
-cd "c:\Users\Shivam Kumar\Desktop\javatut\mavenfile"
-```
-
 Start the application using Maven Wrapper:
 
 ```bash
